@@ -1,0 +1,5 @@
+snowflake-ml-python==1.6.0
+PyPDF2==2.10.5
+langchain==0.1.15
+streamlit==1.36.0
+snowflake
